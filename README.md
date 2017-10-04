@@ -3,7 +3,7 @@
 Hipster is a user-level scheduler for Linux OS, designed to implement a hybrid
 reinforcement learning algorithm to schedule latency-critical and batch workloads to
 improve resource utilisation of a cloud system.  This scheduler was built at the Barcelona
-Supercomputing Center and Universitat Politècnica de Catalunya, Spain.  The scheduler
+Supercomputing Center and Universitat PolitÃ¨cnica de Catalunya, Spain.  The scheduler
 algorithm should be invoked at the sampling interval of the latency-critical workload.
 Hipster should be provided with the number of big and small cores, DVFS states of big and small
 cores, and the static order of the power efficient configurations of the system. 
@@ -43,7 +43,7 @@ Please do the following to get a useful response and save time for both of us:
 
 1) Please briefly describe what do you want to use Hipster for? What is the purpose of
 your experiments? Without understanding what you want to see, it is hard to recommend the
-best use of Clavis for your task. Also, please elaborate a little bit on the workload you
+best use of Hipster for your task. Also, please elaborate a little bit on the workload you
 are using in your tests (what apps, what is their CPU usage, etc.).
 
 2) Please indicate what Hipster version you're using, and send the output file from
